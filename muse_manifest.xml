@@ -1,0 +1,189 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jafgreenmaroc.com" resolutions="1x" timestamp="1561898080239">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3807133489" ref="produits:a-propos:correcteurs-de-carrence:contact:biostimulants:agents-pollinisateurs:index:engrais-standards:formations"/>
+    <file name="produits.css" crc="4098039846" ref="produits"/>
+    <file name="a-propos.css" crc="4211008071" ref="a-propos"/>
+    <file name="iefonts_a-propos.css" crc="4007345911" ref="a-propos"/>
+    <file name="correcteurs-de-carrence.css" crc="176572920" ref="correcteurs-de-carrence"/>
+    <file name="iefonts_correcteurs-de-carrence.css" crc="435829985" ref="correcteurs-de-carrence"/>
+    <file name="contact.css" crc="3938399810" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4161864206" ref="contact"/>
+    <file name="gallerie.css" crc="4193191577" ref="gallerie"/>
+    <file name="biostimulants.css" crc="30498040" ref="biostimulants"/>
+    <file name="iefonts_biostimulants.css" crc="258153216" ref="biostimulants"/>
+    <file name="agents-pollinisateurs.css" crc="351799778" ref="agents-pollinisateurs"/>
+    <file name="iefonts_agents-pollinisateurs.css" crc="19695369" ref="agents-pollinisateurs"/>
+    <file name="index.css" crc="4255579491" ref="index"/>
+    <file name="engrais-standards.css" crc="3932329246" ref="engrais-standards"/>
+    <file name="iefonts_engrais-standards.css" crc="15808536" ref="engrais-standards"/>
+    <file name="formations.css" crc="4209908071" ref="formations"/>
+    <file name="iefonts_formations.css" crc="4144129580" ref="formations"/>
+  </folder>
+  <folder name="assets">
+    <file name="catalogue-06-2019.pdf" crc="3952533619" seo="true" mt="1561722301000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="museutils.js" crc="3803043152" ref="index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="whatinput.js" crc="86476730" ref="index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="museconfig.js" crc="380897831" ref="index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:biostimulants:engrais-standards:correcteurs-de-carrence:contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:a-propos:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="require.js" crc="4157109226" ref="index:a-propos:gallerie:contact:produits:biostimulants:agents-pollinisateurs:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="webpro.js" crc="242022427" ref="contact:biostimulants:formations:engrais-standards:correcteurs-de-carrence"/>
+    <file name="form_check.php" crc="62300408" ref="contact"/>
+    <file name="form_process.php" crc="91775217" ref="contact"/>
+    <file name="form-u12107.php" crc="137183251" ref="contact"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="touchswipe.js" crc="4066113679" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="formations"/>
+  </folder>
+  <folder name="images">
+    <file name="fleche.png" crc="3824601031" ref="index:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="logo-crop-u12549.png" crc="4213485394" seo="true" ref="a-propos">
+      <caption webpage="a-propos" alt=""/>
+    </file>
+    <file name="logo-crop-u12159.png" crc="290123782" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="orgazym 1l copy.png" crc="4001967113" ref="produits:biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="rhizo-root 1l copy.png" crc="419108039" seo="true" ref="produits:biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="rhizostar 1l copy.png" crc="101412413" ref="produits:biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="rhizo-root 5l copy-crop-u13597.png" crc="4141954645" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="orgazym 5l copy.png" crc="275862042" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="magic fertilizer 1l copy.png" crc="3936014074" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="zinco 1l copy.png" crc="3944952726" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="zinco 5l copy.png" crc="135678301" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="biohumic 5l copy.png" crc="224715096" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="chadofer 4k copy.png" crc="4265655253" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="copper 2k copy.png" crc="3955426671" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="small_bee.png" crc="194052924" seo="true" ref="produits">
+      <caption webpage="produits" alt=""/>
+    </file>
+    <file name="rhizo-root 1l copy-u5635-fr.png" crc="488497921" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="enzyma fort 1l copy-u13797-fr.png" crc="453650314" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="zinamine 1l copy.png" crc="96439594" ref="biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="floramine 1l.png" crc="3904656756" ref="biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="rhizo-root 5l copy.png" crc="3783753229" seo="true" ref="biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="enzyma fort 1l copy.png" crc="4053272226" seo="true" ref="biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="enzyma fort 5l copy.png" crc="308442177" seo="true" ref="biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="prev.png" crc="3934701677" ref="biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="next.png" crc="4160974335" ref="biostimulants:engrais-standards:correcteurs-de-carrence">
+      <caption webpage="engrais-standards" alt=""/>
+      <caption webpage="correcteurs-de-carrence" alt=""/>
+      <caption webpage="biostimulants" alt=""/>
+    </file>
+    <file name="close-u5636-fr.png" crc="3845982916" ref="biostimulants:engrais-standards:correcteurs-de-carrence"/>
+    <file name="pollinisation-crop-u14616.png" crc="4287153436" seo="true" ref="agents-pollinisateurs">
+      <caption webpage="agents-pollinisateurs" alt=""/>
+    </file>
+    <file name="beekeeping-supplies-image-crop-u14599.png" crc="3830401871" seo="true" ref="agents-pollinisateurs">
+      <caption webpage="agents-pollinisateurs" alt=""/>
+    </file>
+    <file name="_5810190_orig-crop-u12848.png" crc="109552893" seo="true" ref="agents-pollinisateurs">
+      <caption webpage="agents-pollinisateurs" alt=""/>
+    </file>
+    <file name="logo.jpg" crc="109757678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4269295022" seo="true" mt="1561898000112" redirect="true"/>
+  <file name="a-propos.html" crc="3900529759" seo="true" mt="1561896876351" redirect="true"/>
+  <file name="gallerie.html" crc="166148274" seo="true" mt="1561883365061" redirect="false"/>
+  <file name="contact.html" crc="4107673697" seo="true" mt="1561897182111" redirect="true"/>
+  <file name="produits.html" crc="105057207" seo="true" mt="1561896876351" redirect="true"/>
+  <file name="biostimulants.html" crc="299962944" seo="true" mt="1561896876351" redirect="true"/>
+  <file name="agents-pollinisateurs.html" crc="426264579" seo="true" mt="1561896876351" redirect="true"/>
+  <file name="formations.html" crc="4226636451" seo="true" mt="1561896876351" redirect="true"/>
+  <file name="engrais-standards.html" crc="3853950418" seo="true" mt="1561896876351" redirect="true"/>
+  <file name="correcteurs-de-carrence.html" crc="45599860" seo="true" mt="1561896876351" redirect="true"/>
+</manifest>
